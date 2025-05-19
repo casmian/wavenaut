@@ -150,4 +150,16 @@ Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 -----
 
+## ❤️ Apoya a Wavenaut
+
+Wavenaut es un proyecto que desarrollo con pasión y de forma gratuita para la comunidad. Si utilizas Wavenaut y especialmente si generas música que usas en proyectos comerciales (¡lo cual es genial y te animo a ello!):
+
+* **Considera dar crédito:** Una simple mención como "Música creada con Wavenaut por [tu nombre/estudio]" en los créditos de tu juego, video o pista musical ayuda mucho a dar a conocer la herramienta.
+* **Comparte tus creaciones (presets):** Si creas presets interesantes, considera compartirlos con la comunidad (crearemos este repositorio pronto).
+* **Feedback:** Tus comentarios sobre cómo mejorar Wavenaut son increíblemente valiosos.
+
+---
+¡Cualquier forma de apoyo es bienvenida y muy apreciada, pero sobre todo, disfruta creando!
+
+
 ¡Gracias por tu interés en wavenaut\! Espero construir una herramienta sonora increíble y, con futuras colaboraciones, ¡hacerla aún mejor\!
