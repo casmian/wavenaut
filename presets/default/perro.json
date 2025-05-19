@@ -1,0 +1,12 @@
+{
+    "wave_type": "sine",
+    "freq": 440.0,
+    "duration": 1.0,
+    "amplitude": 0.7,
+    "adsr": {
+        "attack": 0.1,
+        "decay": 0.2,
+        "sustain": 0.7,
+        "release": 0.3
+    }
+}

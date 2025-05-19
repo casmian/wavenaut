@@ -1,0 +1,53 @@
+# Entorno virtual
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.ini
+*.dll
+*.so
+*.dylib
+
+# Archivos de logs
+/logs/
+*.log
+*.log.*
+*.trace
+
+# Archivos de salida de audio
+/output/
+*.wav
+*.ogg
+*.mp3
+
+# Configuración local
+.env
+.env.local
+.env.development
+.env.test
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*~
+*.orig
+*.py[co]
